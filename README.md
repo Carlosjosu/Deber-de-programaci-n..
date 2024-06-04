@@ -8,106 +8,167 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 
 ------------
 
-1.-**Calcular el n-ésimo número triangular** 
-- `do while`: `ejercicios/n-esimo_numero_triangular/do_while.c` 
-- `for`: `ejercicio/n-esimo_numero_triangular/for.c` 
-- `while`: `ejercicios/n-esimo_numero_triangular/while.c` 
+1.-**Suma de los dígitos de un número** 
 
-2.-** Calcular la suma de los factoriales de los primeros n números**
-- `do while`: `ejercicios/suma_factorial/do_while.c` 
-- `for`: `ejercicio/suma_factorial/for.c` 
-- `while`: `ejercicios/suma_factorial/while.c` 
+- `for`: https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20los%20digitos%20de%20un%20numero/for%60%20%60ejerciciossuma_digitosfor.c
+
+- `while`: https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20los%20digitos%20de%20un%20numero/while%60%60ejerciciossuma_digitoswhile.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20los%20digitos%20de%20un%20numero/while%60%60ejerciciossuma_digitoswhile.c
+
+2.-** Inverso de un número**
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Inverso%20de%20un%20numero/%60for%60%20%60ejerciciosinverso_numerofor.c
+
+- `while`: https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Inverso%20de%20un%20numero/%60while%60%20ejercicioinverso_numerowhile.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Inverso%20de%20un%20numero/%60do%20while%60%20%60ejercicios_inverso_numerodo_while.c
 
 
-3.-**Contar los números primos hasta n** 
-- `do while`: `ejercicios/contar_primos_hasta_n/do_while.c` 
-- `for`: `ejercicio/contar_primos_hasta_n/for.c` 
-- `while`: `ejercicios/contar_primos_hasta_n/while.c` 
+3.-**Potencia mediante sumas sucesivas** 
 
-4.-** Encontrar el MCD (Máximo Común Divisor)** 
-- `do while`: `ejercicios/encotrar_MCD/do_while.c` 
-- `for`: `ejercicio/encotrar_MCD/for.c` 
-- `while`: `ejercicios/encotrar_MCD/while.c` 
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Potencia%20mediante%20sumas%20sucesivas/%60for%60%20%60ejerciciopotencia_sumasuccesivafor.c
+- `while`: https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Potencia%20mediante%20sumas%20sucesivas/%60while%60%60ejercicios_potencia_sumas_sucesivas_while.c
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Potencia%20mediante%20sumas%20sucesivas/%60do%20while%60%60ejercicios_potencia_sumas_succesivas_do_while.c%60.c
 
-5.-**Factorial de un numero** 
-- `do while`: `ejercicios/factorial_numero/do_while.c` 
-- `for`: `ejercicio/factorial_numero/for.c` 
-- `while`: `ejercicios/factorial_numero/while.c` 
+4.-** Radicación mediante restas sucesivas** 
 
-6.-**Inverso de un numero** 
-- `do while`: `ejercicios/inverso_numero/do_while.c` 
-- `for`: `ejercicio/inverso_numero/for.c` 
-- `while`: `ejercicios/inverso_numero/while.c` 
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Radicacion%20mediante%20restas%20sucesivas/%60for%60%20%60ejercicioradicacion_raizcubica.c
 
-7.-**Número de dígitos de un número** 
-- `do while`: `ejercicios/numero_digitos_de_un_numero/do_while.c` 
-- `for`: `ejercicio/numero_digitos_de_un_numero/for.c` 
-- `while`: `ejercicios/numero_digitos_de_un_numero/while.c` 
+- `while`: https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Radicacion%20mediante%20restas%20sucesivas/%60while%60%60ejercicios_radicacion_raizcubica_while.c
 
-8.-**Potencia mediante sumas sucesivas** 
-- `do while`: `ejercicios/potencia_sumas_succesivas/do_while.c` 
-- `for`: `ejercicio/potencia_sumas_succesivas/for.c` 
-- `while`: `ejercicios/potencia_sumas_succesivas/while.c` 
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Radicacion%20mediante%20restas%20sucesivas/%60do%20while%60%60ejercicios_raiz_cubica_do_while.c
 
-9.-**Producto de una serie de números fraccionarios** 
-- `do while`: `ejercicios/producto_serie_fracciones/do_while.c` 
-- `for`: `ejercicio/producto_serie_fracciones/for.c` 
-- `while`: `ejercicios/producto_serie_fracciones/while.c` 
+5.-**Serie de Fibonacci** 
 
-10.-**Producto de una serie geométrica** 
-- `do while`: `ejercicios/producto_serie_geomtrica/do_while.c` 
-- `for`: `ejercicio/producto_serie_geomtrica/for.c` 
-- `while`: `ejercicios/producto_serie_geomtrica/while.c` 
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Serie%20Fibonacci/%60for%60%20%60ejercicioseri_fibonaccifor.c
 
-11.-**Radicacion mediante restas sucesivas** 
-- `do while`: `ejercicios/raiz_cubica/do_while.c` 
-- `for`: `ejercicio/raiz_cubica/for.c` 
-- `while`: `ejercicios/raiz_cubica/while.c` 
+- `while`: https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Serie%20Fibonacci/%60while%60%60ejercicios_serie_Fibonacci_while.c
 
-12.-**Serie Fibonacci** 
-- `do while`: `ejercicios/serie_fibonacci/do_while.c` 
-- `for`: `ejercicio/serie_fibonacci/for.c` 
-- `while`: `ejercicios/serie_fibonacci/while.c` 
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Serie%20Fibonacci/do%20while%60%20%60ejercicios_serie_fibonacci_do_while.c
 
-13.-**Suma de los cuadrados de los primeros n números** 
-- `do while`: `ejercicios/suma_cuadrados_de_los_primeros_numeros/do_while.c` 
-- `for`: `ejercicio/suma_cuadrados_de_los_primeros_numeros/for.c` 
-- `while`: `ejercicios/suma_cuadrados_de_los_primeros_numeros/while.c` 
 
-14.-**Suma de los cubos de los primeros n números** 
-- `do while`: `ejercicios/suma_cubo_de_los_primeros_numeros/do_while.c` 
-- `for`: `ejercicio/suma_cubo_de_los_primeros_numeros/for.c` 
-- `while`: `ejercicios/suma_cubo_de_los_primeros_numeros/while.c` 
+6.-**Factorial de un número** 
 
-15.-**Suma de los digitos de un numero** 
-- `do while`: `ejercicios/suma_digitos/do_while.c` 
-- `for`: `ejercicio/suma_digitos/for.c` 
-- `while`: `ejercicios/suma_digitos/while.c` 
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Factorial%20de%20un%20numero/%60for%60%60ejercicios_factorial_numero_for.c
 
-16.-**Suma de una serie aritmetica** 
-- `do while`: `ejercicios/suma_aritmetica_serie/do_while.c` 
-- `for`: `ejercicio/suma_aritmetica_serie/for.c` 
-- `while`: `ejercicios/suma_aritmetica_serie/while.c` 
+- `while`: https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Factorial%20de%20un%20numero/%60while%60%20%60ejercicios_factorial_numero_while.c
 
-17.-**Suma de una serie de números fraccionarios** 
-- `do while`: `ejercicios/suma_serie_fraccionarios/do_while.c` 
-- `for`: `ejercicio/suma_serie_fraccionarios/for.c` 
-- `while`: `ejercicios/suma_serie_fraccionarios/while.c` 
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Factorial%20de%20un%20numero/%60do%20while%60%60ejercicios_%20factorial_numero_do_while.c
 
-18.-**Sumar los números impares hasta n** 
-- `do while`: `ejercicios/impares_hasta_n/do_while.c` 
-- `for`: `ejercicio/impares_hasta_n/for.c` 
-- `while`: `ejercicios/impares_hasta_n/while.c` 
+7.-**Suma de una serie aritmética** 
 
-19.-**Sumar los números pares hasta n** 
-- `do while`: `ejercicios/suma_numero_par/do_while.c` 
-- `for`: `ejercicio/suma_numero_par/for.c` 
-- `while`: `ejercicios/suma_numero_par/while.c` 
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20una%20serie%20aritmetica/%60for%60%20%60ejercicios_suma_%20aritmetica_serie_for.c
 
-20.-**Producto de una serie geométrica** 
-- `do while`: `ejercicios/producto_serie_geometrica/do_while.c` 
-- `for`: `ejercicio/producto_serie_geometrica/for.c` 
-- `while`: `ejercicios/producto_serie_geometrica/while.c` 
+- `while`: https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20una%20serie%20aritmetica/%60while%60%60ejercicios_suma_aritmetica_serie_while.c%60.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20una%20serie%20aritmetica/%60do%20while%60%20%60ejercicios_suma_arimetica_seriedo_while.c
+
+8.-**Producto de una serie geométrica** 
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Producto%20de%20una%20serie%20geom%C3%A9trica/%60for%60%20%60ejercicios_producto_serie_geometrica_for.c
+
+- `while`: https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Producto%20de%20una%20serie%20geom%C3%A9trica/%60while%60%60ejercicios_producto_serie_geometrica_while.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Producto%20de%20una%20serie%20geom%C3%A9trica/%60do%20while%60%20%60ejercicio_producto_serie_geometrica_do_while.c
+
+9.-**Número de dígitos de un número** 
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/N%C3%BAmero%20de%20d%C3%ADgitos%20de%20un%20n%C3%BAmero/%60for%60%20%60ejercicio_numero_digito_de_un_numero__digitos_for.c
+
+- `while`: https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/N%C3%BAmero%20de%20d%C3%ADgitos%20de%20un%20n%C3%BAmero/%60while%60%20%60ejercicios_numero_digito_de_un_numerowhile.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/N%C3%BAmero%20de%20d%C3%ADgitos%20de%20un%20n%C3%BAmero/%60do%20while%60ejercio_numero_%20digitos_de_un_numero_do_while.c
+
+10.-**Verificar si un número es primo** 
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Verificar%20si%20un%20n%C3%BAmero%20es%20primo/%60for%60%60ejercicios_verifiacar_numero_primo_for.c
+
+- `while`: https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Verificar%20si%20un%20n%C3%BAmero%20es%20primo/%60while%60%60ejercicios_verificar_numero_primo_while.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Verificar%20si%20un%20n%C3%BAmero%20es%20primo/%60do%20while%60%60ejercicios_verificar_numero_primo_do_while.c
+
+11.-**Encontrar el MCD (Máximo Común Divisor)** 
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Encontrar%20el%20MCD%20(M%C3%A1ximo%20Com%C3%BAn%20Divisor)/%60for%60%20%60ejercicios_enontrar_MCD_for.c
+
+- `while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Encontrar%20el%20MCD%20(M%C3%A1ximo%20Com%C3%BAn%20Divisor)/%60while%60%20%60ejercicios_encontrar_MCD_while.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Encontrar%20el%20MCD%20(M%C3%A1ximo%20Com%C3%BAn%20Divisor)/%60do%20while%60%20%60ejercicios_%20encontrar_MCD_do_while.c
+
+12.-**Sumar los números impares hasta n** 
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Sumar%20los%20n%C3%BAmeros%20impares%20hasta%20n/%60for%60%20%60ejercicios_impares_hasta_n_for.c
+
+- `while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Sumar%20los%20n%C3%BAmeros%20impares%20hasta%20n/%60while%60%20%60ejercicios_impares_hasta_n_while.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Sumar%20los%20n%C3%BAmeros%20impares%20hasta%20n/%60do%20while%60%20%60ejercicios_impares_hasta_n_do_while.c
+
+13.-**Sumar los números pares hasta n** 
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Sumar%20los%20n%C3%BAmeros%20pares%20hasta%20n/%60for%60%20%60ejercicios_suma_numeros_pares_for.c
+
+- `while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Sumar%20los%20n%C3%BAmeros%20pares%20hasta%20n/%60while%60%20%60ejercicios_suma_numero_par_while.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Sumar%20los%20n%C3%BAmeros%20pares%20hasta%20n/%60while%60%20%60ejercicios_suma_numero_par_while.c
+
+14.-**Suma de los cuadrados de los primeros n números**  
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20los%20cuadrados%20de%20los%20primeros%20n%20n%C3%BAmeros/%60for%60%20%60ejercicios_suma_cuadrados_de_los_primeros_numeros_for.c
+
+- `while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20los%20cuadrados%20de%20los%20primeros%20n%20n%C3%BAmeros/%60while%60%20%60ejercicios_suma_cuadrados_%20de_los_primeros_numeros_while.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20los%20cuadrados%20de%20los%20primeros%20n%20n%C3%BAmeros/%60do%20while%60%20%60ejercicios_suma_cuadrados_de_los_primeros_numeros_do_while.c
+
+
+15.-**Suma de los cubos de los primeros n números** 
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20los%20cubos%20de%20los%20primeros%20n%20n%C3%BAmeros/%60for%60%20%60ejercicios_suma_cubo_de_los_primeros_numeros_for.c
+
+- `while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20los%20cubos%20de%20los%20primeros%20n%20n%C3%BAmeros/%60while%60%60ejercicios_suma_cubo_de_los_primeros_numeros_while.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20los%20cubos%20de%20los%20primeros%20n%20n%C3%BAmeros/%60do%20while%60%20%60ejercicios_suma_cubo_de_los_primeros_numeros_do_while.c
+
+16.-**Suma de una serie de números fraccionarios** 
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20una%20serie%20de%20n%C3%BAmeros%20fraccionarios/%60for%60%20%60ejercicios_suma_serie_fraccionarios_for.c
+
+- `while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20una%20serie%20de%20n%C3%BAmeros%20fraccionarios/%60while%60%20%60ejercicios_suma_serie_fraccionarios_while.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Suma%20de%20una%20serie%20de%20n%C3%BAmeros%20fraccionarios/%60do%20while%60%60ejercicios_suma_serie_fraccionarios_do_while.c
+
+17.-**Producto de una serie de números fraccionarios** 
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Producto%20de%20una%20serie%20de%20n%C3%BAmeros%20fraccionarios/%60for%60%20%60ejercicios_producto_serie_fraccionaria_for.c
+
+- `while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Producto%20de%20una%20serie%20de%20n%C3%BAmeros%20fraccionarios/%60while%60%20%60ejercicios_producto_serie_fraccionaria_while.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Producto%20de%20una%20serie%20de%20n%C3%BAmeros%20fraccionarios/%60do%20while%60%20%60ejercicios_producto_serie_fracciones_do_while.c
+
+
+18.-**Contar los números primos hasta n** 
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Contar%20los%20n%C3%BAmeros%20primos%20hasta%20n/%60for%60%20%60ejercicios_contar_primos_hasta_n_for.c
+
+- `while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Contar%20los%20n%C3%BAmeros%20primos%20hasta%20n/%60while%60%20%60ejercicios_conta_primos_hasta_n_while.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Contar%20los%20n%C3%BAmeros%20primos%20hasta%20n/%60do%20while%60%20%60ejercicios_contar_primos_hasta_n_do_while.c
+
+19.-**Calcular el n-ésimo número triangular** 
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Calcular%20el%20n-%C3%A9simo%20n%C3%BAmero%20triangular/%60for%60%60ejercicios_n-simo_numero_triangular_for.c
+
+- `while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Calcular%20el%20n-%C3%A9simo%20n%C3%BAmero%20triangular/%60while%60%60ejercicios_n-esimo_numero_triangular_while.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Calcular%20el%20n-%C3%A9simo%20n%C3%BAmero%20triangular/%60do%20while%60%60ejercicios_nsimo_numero_triangular_do_while.c
+
+20.-**Calcular la suma de los factoriales de los primeros n números** 
+
+- `for`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Calcular%20la%20suma%20de%20los%20factoriales%20de%20los%20primeros%20n%20n%C3%BAmeros/%60for%60%20%60ejercicios_suma_factorial_for.c
+
+- `while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Calcular%20la%20suma%20de%20los%20factoriales%20de%20los%20primeros%20n%20n%C3%BAmeros/%60while%60%20%60ejercicios_suma_factorial_while.c
+
+- `do while`:https://github.com/Carlosjosu/Deber-de-programaci-n../blob/main/Calcular%20la%20suma%20de%20los%20factoriales%20de%20los%20primeros%20n%20n%C3%BAmeros/%60do%20while%60%20%60ejercicios_suma_factorial_do_while.c
 
 ## Instalación
 El proceso de instalacion es muy facil puedes usar el cdm de tu computadora en windows
